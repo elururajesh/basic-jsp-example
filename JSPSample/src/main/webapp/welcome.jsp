@@ -7,7 +7,7 @@
 <title>Multiplication tables</title>
 </head>
 <body>
-
+<h1>DevOps Laboratory</h1>
 <h3>Welcome <%=request.getParameter("uname") %></h3>
 <pre>
 <%
